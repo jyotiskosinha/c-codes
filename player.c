@@ -23,7 +23,7 @@
 			 	pl[d1-1]=0;
 			 }
 		 }
-	 printf("%d\n",max(pl,n));
+	 printf("max = %d\n",max(pl,n));
 //	 int j;
 //	 for(j=0;j<n;j++){
 //	 	printf("    %d ",pl[j]);
